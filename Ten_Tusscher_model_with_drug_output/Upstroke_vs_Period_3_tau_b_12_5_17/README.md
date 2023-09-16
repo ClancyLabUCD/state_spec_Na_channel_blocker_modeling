@@ -1,1 +1,0 @@
-# Folder to save output from Upstroke_vs_period_all_models_mult_time_const() with V-dependent binding
