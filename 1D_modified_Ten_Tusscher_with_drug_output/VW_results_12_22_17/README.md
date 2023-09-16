@@ -1,1 +1,0 @@
-# Folder to save output from VW_find_VW_high_resolution_cable() and VW_find_VW_GRI_high_resolution_cable()

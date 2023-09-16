@@ -1,1 +1,0 @@
-# Folder to save output from VW_initialization_cable()
